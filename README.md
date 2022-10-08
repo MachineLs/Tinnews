@@ -11,7 +11,7 @@ Tinnews: A Tinder-like News Recommendation App
 
 • Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint (newsapi.org) .
 
-<img width="500" height="1000" src="https://github.com/MachineLS/TinNews/TinNews/ScreenShots/home.png"/>
+<img width="500" height="1000" src="https://github.com/MachineLs/Tinnews/blob/main/TinNews/ScreenShots/home.png"/>
 <img width="500" height="1000" src="https://github.com/MachineLS/TinNews/TinNews/ScreenShots/search1.png"/>
 <img width="500" height="1000" src="https://github.com/MachineLS/TinNews/TinNews/ScreenShots/search2.png"/>
 <img width="500" height="1000" src="https://github.com/MachineLS/TinNews/TinNews/ScreenShots/save.png"/>
